@@ -1,0 +1,66 @@
+#title{
+    margin-left: 1rem;
+    font-size: 3rem;
+    margin-bottom: 10px;
+    font-style:initial;
+    font-family: 'Times New Roman', Times, serif
+}
+.label{
+    padding: 3px;
+    padding-right: 15px;
+
+}
+
+
+}
+.text{
+    font-size: 1rem;
+
+
+}
+.text-1{
+    font-size: 1rem;
+    margin-top: 5px;
+}
+
+.text-2 {
+    margin-left: 1rem;
+    margin: aut;
+    
+}
+
+.input-radio{
+    margin-bottom: 1.3rem;
+}
+
+#front-end{
+    margin-bottom: 1.3rem;
+}
+
+#submit{
+    background-color:wheat 0.7;
+    
+    border: none;
+    font: caption;
+    font-size: 15px;
+}
+.komple{
+    margin: auto;
+    align-items: center; 
+    margin-left: 1rem;
+    align-items: center;
+
+    
+}
+
+#general{
+    border: 2px solid;
+    width: 50%;
+    align-items: center;
+    margin: auto;
+
+    background-color: white;
+}
+body{
+    background-color: black;
+}
